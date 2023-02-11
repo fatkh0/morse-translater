@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.App {
+    height: 100vh;
+
+    background-image: linear-gradient(
+        55deg,
+        hsl(240deg 80% 96%) 0%,
+        hsl(238deg 78% 93%) 9%,
+        hsl(237deg 78% 90%) 18%,
+        hsl(235deg 77% 87%) 28%,
+        hsl(233deg 77% 84%) 37%,
+        hsl(232deg 77% 82%) 47%,
+        hsl(232deg 76% 79%) 57%,
+        hsl(232deg 76% 77%) 68%,
+        hsl(232deg 75% 74%) 78%,
+        hsl(232deg 75% 72%) 89%,
+        hsl(232deg 74% 69%) 100%
+        )
+}
