@@ -1,4 +1,4 @@
-import MainLayoutContainer from './components/MainLayout.jsx/MainLayoutContainer';
+import MainLayoutContainer from './components/mainLayout/MainLayoutContainer';
 
 import './App.css';
 
