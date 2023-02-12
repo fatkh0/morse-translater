@@ -19,7 +19,7 @@ const MainLayout = React.memo((props) => {
     }
 
     return (
-        <div className='main-layout'>
+        <div className='mainLayout'>
             {renderField(LANGUAGES_CONSTANT.EN)}
             {renderField(LANGUAGES_CONSTANT.MRS)}
         </div>

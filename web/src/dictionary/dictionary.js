@@ -1,4 +1,4 @@
-export const dictionary = {
+export const dictionary = Object.freeze({
     "0": "-----",
     "1": ".----",
     "2": "..---",
@@ -44,4 +44,4 @@ export const dictionary = {
     "@": ".--.-.",
     "(": "-.--.",
     ")": "-.--.-"
-}
+})
